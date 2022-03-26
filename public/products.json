@@ -8,24 +8,24 @@
     },
     {
       "id": "13cbc786",
-      "name": "M-tune 13B",
-      "seller": "M-tune company",
+      "name": "Gree 13BC",
+      "seller": "Gree Bangladesh",
       "price": 196,
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyA7D9o0Z2t2paqG6UZhqYlC1Ok4oi2Px1xw&usqp=CAU"
+      "img": "https://img.freepik.com/free-photo/air-conditioner-mounted-white-wall_53876-128235.jpg?size=626&ext=jpg&ga=GA1.2.1884762569.1648320104"
     },
     {
       "id": "300d4f7",
-      "name": "Stelleno 12Y",
-      "seller": "Samphony",
+      "name": "Singer A2YC",
+      "seller": "Singer BD",
       "price": 295,
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4zWM6ZFV3jYJOtgmmbzfeQsDLJAZBMb8lrg&usqp=CAU"
+      "img": "https://img.freepik.com/free-photo/modern-air-conditioner-white-background_476612-4298.jpg?size=626&ext=jpg&ga=GA1.2.1884762569.1648320104"
     },
     {
       "id": "4b22",
-      "name": "Waltone 35C",
-      "seller": "Waltone",
+      "name": "Sony Range",
+      "seller": "Sony",
       "price": 210,
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjJUQvu85EYGkRQLtg5eJ0coE1XxQzx7BBKQ&usqp=CAU"
+      "img": "https://img.freepik.com/free-vector/refrigerator-fridge-realistic-set-big-family-refrigerator-with-two-doors-filled-with-food-products_1284-27088.jpg?size=626&ext=jpg&ga=GA1.1.1884762569.1648320104"
     },
     {
       "id": "94be8e",
@@ -36,51 +36,51 @@
     },
     {
       "id": "3edfb0",
-      "name": "Samphony F6",
-      "seller": "Samphony",
-      "price": 138,
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpM0nxWc4GO8h_Jny6a-_QtbQEt1eG4GrD1Q&usqp=CAU"
+      "name": "Panasonic G80C",
+      "seller": "Panasonic",
+      "price": 430,
+      "img": "https://img.freepik.com/free-psd/isometric-fridge-3d-render_28315-4862.jpg?size=338&ext=jpg&ga=GA1.1.1884762569.1648320104"
     },
     {
       "id": "9c0c137d",
-      "name": "Nokia-31V",
-      "seller": "Nokia",
-      "price": 205,
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq9A2HrNlrFoWvuvyQBJ2H-jisIhRmQsuZJQ&usqp=CAU"
+      "name": "Tosiba S00993",
+      "seller": "Tsiba China",
+      "price": 405,
+      "img": "https://img.freepik.com/free-psd/isometric-fridge-3d-isolated-render_28315-12806.jpg?size=338&ext=jpg&ga=GA1.1.1884762569.1648320104"
     },
     {
       "id": "c9d1f4ea",
-      "name": "Saomi note-8",
-      "seller": "Saomi",
+      "name": "Lenovo H00C3B",
+      "seller": "Lenovo",
       "price": 300,
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTprt4a3mJDPGXUnSzFhP1XXs88baujgB2X0A&usqp=CAU"
+      "img": "https://img.freepik.com/free-psd/mini-fridge-mockup-right-view_1332-14001.jpg?size=626&ext=jpg&ga=GA1.1.1884762569.1648320104"
     },
     {
       "id": "be723f4e",
-      "name": "Nokia 12T",
-      "seller": "Nokia",
+      "name": "Sony",
+      "seller": "SONY",
       "price": 145,
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVlyk7O9-zqGPZEOt0kmVwa7ibrvN300DiiQ&usqp=CAU"
+      "img": "https://img.freepik.com/free-vector/plastic-computer-processor-cooler-with-radiator_169241-4722.jpg?size=338&ext=jpg&ga=GA1.2.1884762569.1648320104"
     },
     {
       "id": "b278eb7b",
-      "name": "Redmi note - 5",
-      "seller": "Redmi",
+      "name": "Range1995",
+      "seller": "Sony Range",
       "price": 150,
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyXlGkNO5R3k3bMj5mD4Whj-HT6PLqUszNUw&usqp=CAU"
+      "img": "https://img.freepik.com/free-psd/retro-tv-mockup_1310-1114.jpg?size=626&ext=jpg&ga=GA1.2.1884762569.1648320104"
     },
     {
       "id": "1f56c2924a",
-      "name": "M-phone pro-25C",
-      "seller": "M-phone",
-      "price": 150,
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHLWYVOqashF3pv8lXhfb2x97l86lOh8x9bg&usqp=CAU"
+      "name": "Panasonic 2020",
+      "seller": "Panasonic",
+      "price": 250,
+      "img": "https://img.freepik.com/free-vector/tv-template-background_1412-18.jpg?size=338&ext=jpg&ga=GA1.1.1884762569.1648320104"
     },
     {
       "id": "4ec4d75c",
-      "name": "Cordles phone - 10",
-      "seller": "Ligo.co.ltd",
-      "price": 162,
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR43FJLtd6D-cxc08NlYl7OBu0UrNg0l4L9nw&usqp=CAU"
+      "name": "LG 2022",
+      "seller": "LG",
+      "price": 262,
+      "img": "https://img.freepik.com/free-photo/tv-cabinet-modern-living-room-with-lamp-table-flower-plant-yellow-wall-background_41470-1515.jpg?size=626&ext=jpg&ga=GA1.1.1884762569.1648320104"
     }
   ]
