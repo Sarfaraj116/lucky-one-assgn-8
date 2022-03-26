@@ -1,0 +1,47 @@
+.product{
+    width: 280px;
+    height: 417px;
+    border: 1px solid red;
+    border-radius: 10px;
+    position: relative;
+}
+.product img {
+    width: 280px;
+    height: 250px;
+}
+.mobile-name{
+    font-family: 'Gill Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: large;
+    line-height: 20px;
+    margin-top: 5px;
+}
+.mobile-info{
+    margin:0 10px;
+    margin-top: 5px;
+}
+.mobile-info p{
+    margin-bottom: 5px;
+}
+.btn-cart{
+    width: 100%;
+    background-color: crimson;
+    border-radius: 0px 0px 5px 5px;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn-cart h2{
+color: aliceblue;
+}
+.btn-cart:hover{
+    background-color:red;
+}
+.btn-cart .btn-text{
+margin-right: 10px;
+}
+.btn-cart .icon{
+    color: bisque;
+}
